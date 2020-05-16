@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # coding=utf-8
 clear
-figlet "Tools"
+figlet "ToolsFb"
 echo  "•========================>
 echo          "Welcome"
 echo "Author : FajarCyber"
