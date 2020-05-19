@@ -2,7 +2,7 @@
 # coding=utf-8
 
 clear
-echo         "Welcome"
+         "Welcome"
 logo = "==========================>
 "Author : FajarCyber"
 "Kontak : 08817805411"
