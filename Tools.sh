@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/sh
 # coding=utf-8
 
 clear
