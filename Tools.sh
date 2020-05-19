@@ -3,15 +3,15 @@
 
 clear
 echo         "Welcome"
-echo "==========================>
-echo "Author : FajarCyber"
-echo "Kontak : 08817805411"
-echo "Github : https://github.co>
-echo "==========================>
+logo = "==========================>
+"Author : FajarCyber"
+"Kontak : 08817805411"
+"Github : https://github.co>
+"==========================>
 echo  "Maaf Tools Tersedia Hanya>
 echo  "Untuk Username Dan Passwo>
 echo "pilih menu Tools nya"
-echo
+#
 echo "[1] DarkFB"
 echo
 read -p "[?] pilih :" pil:
