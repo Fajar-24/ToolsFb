@@ -21,17 +21,11 @@ echo "1.[÷] DARK FB"
 echo
 echo 
 read -p " [?] pilih : " pil:
-# Batas gan
+#
 clear
-if [ $pil - 1 ]
+if [ $pil -1 ]
 then
-pkg upgrade && apt update
-pkg install urllib
-pkg install python2
-pkg install requests
-pkg install mechanize
-pkg install git
-git clone https://github.com/Fa>
+git clone https://github.com/Fajar-24/CyberNEW
 cd CyberNEW
 python2 Cyber.py
 fi
