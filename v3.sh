@@ -20,7 +20,7 @@ echo
 echo "1.[÷] DARK FB"
 echo
 echo 
-read -p "[?] pilih :" pil:
+read -p " [?] pilih : " pil:
 # Batas gan
 clear
 if [ $pil -1 ]
