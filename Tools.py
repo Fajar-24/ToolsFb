@@ -2,17 +2,23 @@
 # coding=utf-8
 
 clear
-         "Welcome"
-logo = "==========================>
-"Author : FajarCyber"
-"Kontak : 08817805411"
-"Github : https://github.co>
-"==========================>
-echo  "Maaf Tools Tersedia Hanya>
-echo  "Untuk Username Dan Passwo>
+figlet "Welcome"lolcat
+echo "•×•×•×•×•×•×•×•×•×•×•×•×•×•÷•×•÷•÷•÷•×•×•"
+echo "Author : FajarCyber"
+echo "••••••••••••••••••••••"
+echo "Kontak : 08817805411"
+echo "••••••••••••••••••••••"
+echo "Github : https://github.com/Fajar-24"
+echo "••••••••••••••••••••••••••••••••••••••"
+echo  " JANGAN DI SALAH GUNAKAN "
+figlet "EROR"
+echo "•×•×•×•×•×•×•×•×•×•×•×•×•×•×•×•×•×•×•×•××"
+echo "Maaf Tools Tersedia Hanya 1"
+echo "Untuk Username Dan Password Hubungi 08817805411"
+echo "GUNAKAN TOOLS INI DENGAN BIJAK"
 echo "pilih menu Tools nya"
 #
-echo "[1] DarkFB"
+echo "1.[÷] DARK FB"
 echo
 read -p "[?] pilih :" pil:
 # Batas gan
