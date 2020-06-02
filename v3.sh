@@ -23,15 +23,15 @@ echo
 read -p " [?] pilih : " pil:
 # Batas gan
 clear
-if [ $pil -1 ]
+if [ $pil - 1 ]
 then
- apt upgrade && apt update
- apt install urllib
- apt install python2
- apt install requests
- apt install mechanize
- apt install git
- git clone https://github.com/Fa>
- cd CyberNEW
+pkg upgrade && apt update
+pkg install urllib
+pkg install python2
+pkg install requests
+pkg install mechanize
+pkg install git
+git clone https://github.com/Fa>
+cd CyberNEW
 python2 Cyber.py
 fi
